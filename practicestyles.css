@@ -1,0 +1,22 @@
+.top{
+    background-color:#D9F8C4;
+    width: 200px;
+    height:200px;
+    border: solid 10px;
+    padding: 20px;
+}
+.middle{
+    background-color: #F9F9C5;
+    width: 200px;
+    height:200px;
+    border: solid 20px;
+    margin-left:260px;
+
+}
+.bottom{
+    background-color:#FAD9A1;
+    width: 200px;
+    height:200px;
+    border: solid 10px;
+    margin-left:500px;
+}
